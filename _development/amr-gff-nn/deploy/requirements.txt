@@ -8,7 +8,7 @@
 --index-url https://pypi.org/simple
 
 # Core Machine Learning Runtime
-torch==2.3.1
+torch==2.13.0
 numpy==1.24.3
 scipy==1.11.2
 

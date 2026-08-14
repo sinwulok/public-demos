@@ -1,6 +1,6 @@
 # Python 3.10 deployment constraint mirror.
 # The authoritative direct-dependency list is deploy/requirements.txt.
-torch==2.3.1
+torch==2.13.0
 numpy==1.24.3
 scipy==1.11.2
 onnx==1.16.1
